@@ -7,7 +7,7 @@ Front-End Web Developer Nanodegree Program
 ## Goals
 <ul>
   <li>Dynamically add content to the DOM (Manipulate the DOM)</li>
-  <li>Improve usability to a static website</li>
+  <li>Improve the usability of a static website</li>
 </ul>
 
 ## Development
